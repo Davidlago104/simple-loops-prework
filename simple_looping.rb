@@ -16,7 +16,9 @@ loop do
   counter = counter + 1 
   
   puts phrase
-  if counter >=
+  if counter >= 7
+    break
+    
   end
   
 end
