@@ -18,7 +18,7 @@ loop do
   puts phrase
   if counter >= 7
     break
-    
+  end
   end
   
 end
