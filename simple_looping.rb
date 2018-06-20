@@ -16,7 +16,7 @@ loop do
   counter = counter + 1 
   
   puts phrase
-  if 
+  if counter >=
   end
   
 end
