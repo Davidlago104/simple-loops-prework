@@ -65,5 +65,6 @@ def for_iterator(number_of_times)
   number_of_times = 1..7
   for lesson in school  
     puts phrase
+  end
 end
 
