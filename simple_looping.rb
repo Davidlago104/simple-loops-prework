@@ -15,6 +15,8 @@ loop do
   
   counter = counter + 1 
   
+  puts phrase
+  if 
   end
   
 end
